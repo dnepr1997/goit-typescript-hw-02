@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: grey;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+}
+li {
+  list-style: none;
+}
